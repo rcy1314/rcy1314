@@ -46,14 +46,7 @@ Here are some ideas to get you started:
 
 𝑯𝒊, 𝑰'𝒎 ✨ [NOISE](https://noisework.cn) ✨
 
-<!-- code.gif -->
-<img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="500" height="320" />
-
-
-
-
-
-- 📫 How to reach me: ✉️ [Email](noise:1129159201@qq.com) OR ![Wechat](https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/微信图片_20201231223913.b42ps2qnsqw.jpg?logo=wechat&logoColor=white)
+- 📫 How to reach me: ✉️ [Email](noise:1129159201@qq.com) 
 - 💬 Ask me about anything, I am happy to help;
 
 > 💖 If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 <a href="https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/weixin.2bpsvylas13w.jpg" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a> 
