@@ -28,19 +28,9 @@ Bash              23 mins         ▒░░░░░░░░░░░░░░�
 <tr>
 <td valign="top" width="50%">
 
-<!-- START_SECTION:tg -->
-<!-- END_SECTION:tg -->
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
 
-<tr>
-<td valign="top" width="50%">
 
-<!-- START_SECTION:twitter -->
-<!-- END_SECTION:twitter -->
-
-<tr>
-<td valign="top" width="50%">
-
-<!-- START_SECTION:gong -->
-<!-- END_SECTION:gong -->
 
 💖 If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 <a href="https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/weixin.2bpsvylas13w.jpg" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a> 
