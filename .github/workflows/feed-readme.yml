@@ -12,7 +12,7 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/social-readme@master
+      - uses: rcy1314/rcy1314-readme@master
         with:
           tg_rss_link: https://rsshub.app/telegram/channel/quanshoulu
           twitter_rss_link: https://rsshub.app/twitter/likes/liangwenhao3
