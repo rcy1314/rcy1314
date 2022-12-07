@@ -1,0 +1,20 @@
+name: feed Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-social:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: zylele/social-readme@master
+        with:
+          tg_rss_link: https://rsshub.app/telegram/channel/quanshoulu
+          twitter_rss_link: https://rsshub.app/twitter/likes/liangwenhao3
+          gong_link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzODgyNDc5Ng==&action=getalbum&album_id=2300793028376412163
+          
