@@ -13,7 +13,7 @@ jobs:
     name: Update this rcy1314's README
     runs-on: ubuntu-latest
     steps:
-      - uses: rcy1314/social-readme@master
+      - uses: zylele/social-readme@master
         with:
           blog_link: https://rsshub.app/telegram/channel/quanshoulu
          
