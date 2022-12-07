@@ -9,10 +9,11 @@ on:
       - master
 
 jobs:
-  update-social:
+  update-readme:
+    name: Update this rcy1314's README
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/social-readme@master
+      - uses: rcy1314/rcy1314@master
         with:
           blog_link: https://rsshub.app/telegram/channel/quanshoulu
          
