@@ -1,9 +1,5 @@
 
 
-𝑯𝒊, 𝑰'𝒎 ✨ [NOISE](https://noisework.cn) ✨
-
-
-
 <h3 align="center">
     由于受到某些用户的恶意攻击（包含仓库、服务器、IP、域名）本主页永不再开放，仅存放档案记录，其它无影响
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
