@@ -5,35 +5,27 @@
 
 
 <h3 align="center">
-    欢迎你的访问
+    由于受到某些用户的恶意攻击（包含仓库、服务器、IP、域名）本主页永不再开放，仅存放档案记录，其它无影响
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=在这里你能找到我自己或喜欢的一些项目">
+    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=已追踪追查攻击来源用户、IP、来访记录">
 </p>
 
+## 时间线
 
+- **2024年10月6日凌晨**  
+  被恶意github用户(已追踪该用户）攻击。攻击记录已被留存。
 
-```text
-Week: 10 February, 2022 - 16 February, 2022
+- **2024年10月10日-11日**  
+  二级域名遭到节点攻击，已开启nginx优化，并将源码移出仓库
 
-Total: 39 hrs 34 mins
+- **2025年8月9日至10月11日**  
+  Flarum站点被采集，回调地址被改写
 
-Go                29 hrs 54 mins  ██████████████████▓░░░░░░   75.21 % 
-PHP               6 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Protocol Buffer   1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-INI               26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Bash              23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-```
+- **2025年12月19日**  
+  wordpress站点被植入插件包后门程序，已删除整个网站包并追查服务器可疑运行程序
 
-<tr>
-<td valign="top" width="50%">
+- **2025年12月20日至12月22日**  
+  服务器被植入木马文件`43.zip`。已报告该事件并已完成溯源。详情可访问：[https://rcy1314.github.io/security-report/](https://rcy1314.github.io/security-report/)
 
-<!-- START_SECTION:blog -->
-
-<!-- END_SECTION:blog -->
-
-
-
-
-💖 If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 <a href="https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/weixin.2bpsvylas13w.jpg" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a>
